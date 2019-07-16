@@ -1,0 +1,7 @@
+C:\Users\Nevin\Desktop\TinClockRadio\TinClockRadio\bin\Debug\TinClockRadio.exe.config
+C:\Users\Nevin\Desktop\TinClockRadio\TinClockRadio\bin\Debug\TinClockRadio.exe
+C:\Users\Nevin\Desktop\TinClockRadio\TinClockRadio\bin\Debug\TinClockRadio.pdb
+C:\Users\Nevin\Desktop\TinClockRadio\TinClockRadio\obj\Debug\TinClockRadio.csprojAssemblyReference.cache
+C:\Users\Nevin\Desktop\TinClockRadio\TinClockRadio\obj\Debug\TinClockRadio.csproj.CoreCompileInputs.cache
+C:\Users\Nevin\Desktop\TinClockRadio\TinClockRadio\obj\Debug\TinClockRadio.exe
+C:\Users\Nevin\Desktop\TinClockRadio\TinClockRadio\obj\Debug\TinClockRadio.pdb
